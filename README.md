@@ -27,5 +27,5 @@ A fully hardware-based implementation of the classic Tic Tac Toe game using only
 
 ## Built With
 
-- Digital logic simulator (`Digital` by Helmut Neemann)
+- Digital logic simulator ([Digital](https://github.com/hneemann/Digital) by Helmut Neemann)
 - Flip-flops, AND/OR gates, visual indicators
